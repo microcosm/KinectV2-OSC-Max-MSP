@@ -440,7 +440,7 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 388.5, 358.5, 198.5, 34.0 ],
+									"patching_rect" : [ 388.5, 358.5, 110.5, 34.0 ],
 									"text" : "Right 0. 0. 1.1642"
 								}
 
@@ -588,7 +588,7 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 212.5, 235.0, 87.0, 34.0 ],
+									"patching_rect" : [ 212.5, 235.0, 37.0, 34.0 ],
 									"text" : "Right"
 								}
 
